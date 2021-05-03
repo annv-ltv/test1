@@ -8,7 +8,6 @@
             "email": "annv.ltv@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Annv\\Calculator\\": "src/"
