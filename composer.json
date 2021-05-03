@@ -1,0 +1,17 @@
+{
+    "name": "annv-ltv/calculator",
+    "description": "Calculator",
+    "type": "php",
+    "authors": [
+        {
+            "name": "Annv.ltv",
+            "email": "annv.ltv@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Annv\\Calculator\\": "src/"
+        }
+    }
+}
